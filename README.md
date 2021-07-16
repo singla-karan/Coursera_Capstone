@@ -1,20 +1,20 @@
 # IBM Capstone Project
 
-## Project 1\
-File : Applied Data Science Capstone 1
-Description: 
+## Project 1
+File : Applied Data Science Capstone 1\n
+Description: \n
 In this project, I am required to explore, segment, and cluster the neighborhoods in the city of Toronto based on the postalcode and borough information.
 
 For the Toronto neighborhood data, a Wikipedia page exists that has all the information I need to explore and cluster the neighborhoods in Toronto. I will be required to scrape the Wikipedia page and wrangle the data, clean it, and then read it into a pandas dataframe so that it is in a structured format like the New York dataset.
 
 Once the data is in a structured format, you can replicate the analysis that we did to the New York City dataset to explore and cluster the neighborhoods in the city of Toronto.
 
-Table of Content\
+Table of Content
 1. Scrap content from wiki page.
 2. Get the latitude and the longitude coordinates of each neighborhood.
 3. Explore and cluster the neighborhoods in Toronto
 
-## Project 2\
+## Project 2
 1. File: Applied Data Science Capstone (Description)
 A description of the problem and a discussion of the background and a description of the data and how it will be used to solve the problem.
 
