@@ -1,8 +1,10 @@
 # IBM Capstone Project
 
 ## Project 1
-File : Applied Data Science Capstone 1\n
-Description: \n
+File : Applied Data Science Capstone 1
+
+Description:
+
 In this project, I am required to explore, segment, and cluster the neighborhoods in the city of Toronto based on the postalcode and borough information.
 
 For the Toronto neighborhood data, a Wikipedia page exists that has all the information I need to explore and cluster the neighborhoods in Toronto. I will be required to scrape the Wikipedia page and wrangle the data, clean it, and then read it into a pandas dataframe so that it is in a structured format like the New York dataset.
@@ -16,13 +18,17 @@ Table of Content
 
 ## Project 2
 1. File: Applied Data Science Capstone (Description)
+
 A description of the problem and a discussion of the background and a description of the data and how it will be used to solve the problem.
 
 2. File: IBM DATAscience capstone Final CODES
+
 Description: Showing my codes for Project 2.
 
 3. File: Applied Data Science Capstone Project Presentation
+
 Description:
+
 A full report consisting of all of the following components:
 
 > Introduction where you discuss the business problem and who would be interested in this project.
@@ -33,7 +39,9 @@ A full report consisting of all of the following components:
 > Conclusion section where you conclude the report.
 
 4. File: Applied Data Science Capstone Project Report
+
 Description:
+
 Project Presentation
 
 
